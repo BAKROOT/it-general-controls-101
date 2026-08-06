@@ -5,7 +5,7 @@
 ![Topic: IT Audit](https://img.shields.io/badge/topic-IT%20audit%20%26%20GRC-blue.svg)
 ![Format: Markdown](https://img.shields.io/badge/format-Markdown-lightgrey.svg)
 
-> A from-scratch, newbie-friendly knowledge base on **IT General Controls (ITGC)** — the behind-the-scenes controls that make an organization's technology (and the financial numbers that come out of it) trustworthy.
+> A beginner-friendly knowledge base built from the ground up on **IT General Controls (ITGC)**: the behind-the-scenes controls that make an organization's technology, and the financial information it produces, trustworthy.
 
 ## What is this?
 
